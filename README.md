@@ -83,11 +83,11 @@ Preventing counterfeit versions of proprietary scripts
 ---
 Without Zeta-Obfuscator
 
-![VirusTotal Scan Result](images/VirusTotal-Scan-Result1.png)
+![VirusTotal Scan Result](image/VirusTotal-Scan-Result1.png)
 
 With Zeta-Obfuscator
 
-![VirusTotal Scan Result](images/VirusTotal-Scan-Result2.png)
+![VirusTotal Scan Result](image/VirusTotal-Scan-Result2.png)
 ---
 
 Trust & Credibility
