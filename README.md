@@ -86,9 +86,13 @@ Preventing counterfeit versions of proprietary scripts
 Trust & Credibility
 
 Developer: BenzoXdev
+
 Discord: discord.gg/DenzoXdev
+
 Telegram: t.me/Benzox
+
 GitHub: github.com/BenzoXdev
+
 Instagram: just._.benzo
 
 
