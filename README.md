@@ -61,7 +61,7 @@ git clone https://github.com/BenzoXdev/Zeta-Obfuscator.git
 
 cd Zeta-Obfuscator
 
-pip install requirements.txt -r
+pip install -r requirements.txt
 
 python Zeta-Obfuscator-Tool.py
 
