@@ -58,8 +58,11 @@ Engineered to fool both machines and humans
 Quick Installation
 
 git clone https://github.com/BenzoXdev/Zeta-Obfuscator.git
+
 cd Zeta-Obfuscator
-pip install colorama astor
+
+pip install requirements.txt -r
+
 python Zeta-Obfuscator-Tool.py
 
 
