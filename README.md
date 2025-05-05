@@ -81,11 +81,11 @@ Preventing counterfeit versions of proprietary scripts
 
 
 ---
-Without Zeta-Obfuscator
+#Without Zeta-Obfuscator
 
 ![VirusTotal Scan Result](image/VirusTotal-Scan-Result1.png)
 
-With Zeta-Obfuscator
+#With Zeta-Obfuscator
 
 ![VirusTotal Scan Result](image/VirusTotal-Scan-Result2.png)
 ---
