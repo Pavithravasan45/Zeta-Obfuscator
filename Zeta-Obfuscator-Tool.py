@@ -32,7 +32,7 @@ ADD = f'{BEFORE}+{AFTER} |'
 WAIT = f'{BEFORE}~{AFTER} |'
 
 # Informations de contact (affichage uniquement, non utilisés pour une vérification)
-discord_server = 'discord.gg/Denzo0dev'
+discord_server = 'discord.gg/BenzoXdev'
 github = 'github.com/BenzoXdev'
 telegram = 't.me/Benzox'
 instagram = 'just._.benzo'
