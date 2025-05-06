@@ -1,7 +1,11 @@
 # Zeta-Obfuscator
+-----
 
-![VirusTotal Scan Result](image/logo.jpeg)
+<p align="center">
+<img src="https://repository-images.githubusercontent.com/377591030/2d6a28f3-22f0-4294-9146-874c9124599c", width="500", height="500">
+</p>
 
+-----
 # Zeta Obfuscator Tool
 
 Turn any Python script into an impenetrable enigma.
