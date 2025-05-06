@@ -100,7 +100,7 @@ Preventing counterfeit versions of proprietary scripts
 
 Developer: BenzoXdev
 
-Discord: discord.gg/DenzoXdev
+Discord: discord.gg/BenzoXdev
 
 Telegram: t.me/Benzox
 
