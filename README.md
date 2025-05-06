@@ -1,6 +1,6 @@
 # Zeta-Obfuscator
 
-# N’oubliez pas de soutenir le projet en mettant une étoile 🌟 sur GitHub. Chaque étoile compte et nous motive à aller plus loin.
+# Don't forget to support the project by rating it with a star 🌟 on GitHub. Every star counts and motivates us to go further.
 
 -----
 
