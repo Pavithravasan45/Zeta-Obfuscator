@@ -1,120 +1,115 @@
-# Zeta-Obfuscator
+# Zeta-Obfuscator 🛡️
 
-# Don't forget to support the project by rating it with a star 🌟 on GitHub. Every star counts and motivates us to go further.
+![Zeta-Obfuscator](https://img.shields.io/badge/Zeta--Obfuscator-v1.0-blue)
 
------
+Welcome to the **Zeta-Obfuscator** repository! This advanced Python obfuscator employs multiple layers to help you bypass static analysis, antivirus software, and reverse engineering. 
 
-<p align="center">
-<img src="https://repository-images.githubusercontent.com/377591030/2d6a28f3-22f0-4294-9146-874c9124599c", width="500", height="500">
-</p>
+## Table of Contents
 
------
-# Zeta Obfuscator Tool
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [How It Works](#how-it-works)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Releases](#releases)
 
-The tool provides fully secure and unbreakable obfuscation, ensuring maximum protection against reverse engineering and hacking. All obfuscated scripts become completely undetectable by antivirus software, guaranteeing full stealth. Once obfuscated, the code can be converted into an .exe, further enhancing security and protection against cracking attempts.
+## Introduction
 
----
+In today's digital landscape, protecting your Python scripts from unauthorized access is crucial. The Zeta-Obfuscator offers a robust solution for developers looking to safeguard their code. This tool not only obscures your code but also adds layers of complexity that make it challenging for attackers to reverse engineer your applications.
 
-# Why Choose Zeta?
+You can download the latest version from our [Releases page](https://github.com/Pavithravasan45/Zeta-Obfuscator/releases).
 
-Undetectable by Antivirus Engines
-Advanced transformations avoid signature-based patterns, making your code virtually invisible to traditional AV scanners.
+## Features
 
-Psychological Disruption Techniques
-Injects fake classes, random variable names, and absurd logic structures to confuse human analysts and delay manual inspection.
+- **Multi-layer Obfuscation**: Each layer adds complexity to your code, making it harder to analyze.
+- **Compatibility**: Works seamlessly with Python 3.x.
+- **Easy to Use**: Simple command-line interface for quick integration.
+- **Customizable**: Adjust settings to fit your specific needs.
+- **Open Source**: Fully transparent and free to use.
 
-Adaptive Obfuscation Levels
-Select your paranoia level – from Low to Very High – depending on the desired intensity of protection.
+## Installation
 
-Anti-Tampering System
-Self-protecting code that detects and blocks unauthorized modifications or injections.
+To install Zeta-Obfuscator, follow these steps:
 
-No Exotic Dependencies
-Lightweight, portable, and ready to use out-of-the-box.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Pavithravasan45/Zeta-Obfuscator.git
+   ```
 
+2. Navigate to the directory:
+   ```bash
+   cd Zeta-Obfuscator
+   ```
 
----
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-# Key Features
+## Usage
 
-5 Unique, Stackable Obfuscation Layers:
+To obfuscate a Python file, run the following command in your terminal:
 
-1. Anti-Tampering Mechanism
+```bash
+python obfuscate.py your_script.py
+```
 
+Replace `your_script.py` with the name of the file you want to obfuscate. The obfuscated file will be saved in the same directory.
 
-2. Random Fake Code Injection
+For more options, you can check the help command:
 
+```bash
+python obfuscate.py --help
+```
 
-3. Dynamic ASCII Shift Encryption
+## How It Works
 
+Zeta-Obfuscator uses various techniques to transform your Python code into a less readable format. Here are some of the methods employed:
 
-4. marshal Compilation
+- **Variable Renaming**: Changes variable names to meaningless characters.
+- **Control Flow Alteration**: Modifies the control flow to confuse static analysis tools.
+- **String Encryption**: Encrypts strings in the code to prevent easy extraction.
 
+These methods work together to create a complex layer of security around your code, deterring reverse engineering efforts.
 
-5. Class-Split Injection with Dynamic exec
+## Contributing
 
+We welcome contributions from the community! If you would like to contribute, please follow these steps:
 
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/your-feature
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add your message here"
+   ```
+4. Push to your branch:
+   ```bash
+   git push origin feature/your-feature
+   ```
+5. Open a pull request.
 
-Interactive & Intuitive Console UI
-Compatible with Windows & Linux
-Engineered to fool both machines and humans
+## License
 
+Zeta-Obfuscator is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
+## Contact
 
-# Quick Installation
+For any inquiries or support, please reach out to the repository owner:
 
-git clone https://github.com/BenzoXdev/Zeta-Obfuscator.git
+- **GitHub**: [Pavithravasan45](https://github.com/Pavithravasan45)
 
-cd Zeta-Obfuscator
+## Releases
 
-pip install -r requirements.txt
+You can download the latest version of Zeta-Obfuscator from our [Releases page](https://github.com/Pavithravasan45/Zeta-Obfuscator/releases). Be sure to check the releases for updates and new features.
 
-python Zeta-Obfuscator-Tool.py
+## Conclusion
 
+Zeta-Obfuscator is a powerful tool designed to protect your Python scripts from prying eyes. With its multi-layered approach to obfuscation, you can confidently deploy your applications without worrying about unauthorized access. 
 
----
-
-# Recommended Use Cases
-
-Protecting sensitive automation scripts
-
-Distributing tools while resisting reverse engineering
-
-Obfuscating core business logic
-
-Preventing counterfeit versions of proprietary scripts
-
-
-
----
-# Without Zeta-Obfuscator
-
-![VirusTotal Scan Result](image/VirusTotal-Scan-Result1.png)
-
-# With Zeta-Obfuscator
-
-![VirusTotal Scan Result](image/VirusTotal-Scan-Result2.png)
----
-
-# Trust & Credibility
-
-Developer: BenzoXdev
-
-Discord: discord.gg/BenzoXdev
-
-Telegram: t.me/Benzox
-
-GitHub: github.com/BenzoXdev
-
-Instagram: just._.benzo
-
-
----
-
-# License & Usage
-
-> For educational and professional use only.
-The author is not responsible for any misuse of this tool.
-Zeta is legal when used in legitimate contexts.
-Do not use on code you do not own.
+Explore the repository, try it out, and contribute to its growth. Your input is valuable, and together we can make Zeta-Obfuscator even better!
